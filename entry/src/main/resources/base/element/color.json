@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_color",
+      "value": "#FF9D42"
+    },
+    {
+      "name": "text_primary",
+      "value": "#333333"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#999999"
+    },
+    {
+      "name": "text_hint",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "background_gray",
+      "value": "#F5F5F5"
+    }
+  ]
+}

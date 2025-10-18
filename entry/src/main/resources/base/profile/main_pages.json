@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Main",
+    "pages/AddBill",
+    "pages/ReminderSetting",
+    "pages/SelectAssetType",
+    "pages/AddAccount",
+    "pages/HelpDocument",
+    "pages/AboutUs",
+    "pages/Settings"
+  ]
+}
